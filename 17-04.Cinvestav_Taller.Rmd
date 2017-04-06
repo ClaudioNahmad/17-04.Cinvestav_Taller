@@ -39,6 +39,10 @@ La plática intentará ser interactiva, por lo que varios ejemplos serán presen
 
 ------
 
+Ligas: <a href="https://github.com/jcmartinezovando/17-04.Cinvestav_Taller/blob/master/17-04.Cinvestav_TallerBayes.Rmd">[.Rmd]</a> - <a href="">[.html]</a>
+
+------
+
 # Herramientas computacionales
 
 * `R` <a href="https://www.r-project.org/">[Liga]</a> (lenguaje de programación)
