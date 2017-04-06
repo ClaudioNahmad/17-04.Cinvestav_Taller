@@ -35,7 +35,7 @@ La plática intentará ser interactiva, por lo que varios ejemplos serán presen
 
 ------
 
-Ligas: <a href="">[.Rmd]</a> - <a href="">[.html]</a> 
+Presentacion: <a href="https://github.com/jcmartinezovando/17-04.Cinvestav_Taller/blob/master/17-04.Cinvestav_TallerBayes.pdf">[.pdf]</a>
 
 ------
 
