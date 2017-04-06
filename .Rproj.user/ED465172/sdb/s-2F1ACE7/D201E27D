@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Fundamentos de Estadística Bayesiana\"\nauthor: Juan Carlos Martinez-Ovando\ndate: Abril 6, 2017 \noutput: html_notebook\n---\n\n------\n\n# Agenda\n\n1. Incertidumbre y aleatoriedad\n\n2. Subjetividad y aprendizaje\n\n3. Modelación\n\n4. Herramientas computacionales\n\n5. Aplicaciones\n\n6. Temas abiertos\n\n------\n\n# Resumen\n\n\n\n------\n\n# Herramientas computacionales\n\n* R-Project <a href=\"https://www.r-project.org/\">[Liga]</a> <a href=\"\">[Manual]</a>\n\n* R studio <a href=\"https://www.rstudio.com/\">[Liga]</a>\n\nDentro `R` o `R Studio` instalar los siguientes paquetes:\n\n```\ninstall.packages(\"dplyr\")\ninstall.packages(\"ggplot2\")\ninstall.packages(\"mcmc\")\ninstall.packages(\"coda\")\n```\n------\n\n",
+    "created" : 1490661042361.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1503970735",
+    "id" : "D201E27D",
+    "lastKnownWriteTime" : 1490661691,
+    "last_content_update" : 1490661728482,
+    "path" : "C:/JCMO.Trabajo/Seminars,Visits&Talks/17-04.Cinvestav/17-04.Cinvestav/17-04.Cinvestav_Taller.Rmd",
+    "project_path" : "17-04.Cinvestav_Taller.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

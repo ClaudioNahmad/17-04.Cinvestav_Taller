@@ -1,0 +1,67 @@
+---
+title: "Fundamentos de Estadistica Bayesiana"
+author: "Juan Carlos Martinez-Ovando"
+date: "Abril 5, 2017"
+output: ioslides_presentation
+# widescreen: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+rm(list=ls())
+```
+
+# Incertidumbre y aleatoriedad
+
+# Subjetividad y modelación
+
+# Aprendizaje y predicción
+
+# Herramientas computacionales
+
+# Aplicaciones
+
+## Datos
+
+```{r data, include=TRUE}
+datos <- read.table("/home/jcmo/JCMO.Trabajo/Seminars,Visits&Talks/17-04.Cinvestav/17-04.Cinvestav_Taller/Datos/astro_data.txt", header = TRUE)
+summary(datos)
+```
+
+## Datos
+
+```{r}
+plot(datos)
+```
+
+## Slide with Plot
+
+```{r pressure, include=TRUE}
+plot(pressure)
+```
+
+# Temas abiertos
+
+----
+
+![picture of spaghetti](/home/jcmo/JCMO.Trabajo/Seminars,Visits&Talks/17-04.Cinvestav/17-04.Cinvestav_Taller/Imagenes/ITAM_2016.png)
+
+# Gracias...
+
+##  
+
+<center>
+<div class="blue2">
+Gracias por su atencion...
+</div>
+</center>
+
+* El material de la platica esta disponible en:
+<https://github.com/jcmartinezovando/17-04.Cinvestav_Taller>
+
+* Mi contacto:
+<jc.martinez.ovando@itam.mx>
+
+
+
+

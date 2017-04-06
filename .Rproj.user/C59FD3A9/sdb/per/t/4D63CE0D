@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Fundamentos de Estadistica Bayesiana\"\nauthor: \"Juan Carlos Martinez-Ovando\"\ndate: \"Abril 5, 2017\"\noutput: ioslides_presentation\n# widescreen: yes\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = FALSE)\nrm(list=ls())\n```\n\n# Incertidumbre y aleatoriedad\n\n# Subjetividad y modelación\n\n# Aprendizaje y predicción\n\n# Herramientas computacionales\n\n# Aplicaciones\n\n## Datos\n\n```{r data, include=TRUE}\ndatos <- read.table(\"/home/jcmo/JCMO.Trabajo/Seminars,Visits&Talks/17-04.Cinvestav/17-04.Cinvestav_Taller/Datos/astro_data.txt\", header = TRUE)\nsummary(datos)\n```\n\n## Datos\n\n```{r}\nplot(datos)\n```\n\n## Slide with Plot\n\n```{r pressure, include=TRUE}\nplot(pressure)\n```\n\n# Temas abiertos\n\n----\n\n![picture of spaghetti](/home/jcmo/JCMO.Trabajo/Seminars,Visits&Talks/17-04.Cinvestav/17-04.Cinvestav_Taller/Imagenes/ITAM_2016.png)\n\n# Gracias...\n\n##  \n\n<center>\n<div class=\"blue2\">\nGracias por su atencion...\n</div>\n</center>\n\n* El material de la platica esta disponible en:\n<https://github.com/jcmartinezovando/17-04.Cinvestav_Taller>\n\n* Mi contacto:\n<jc.martinez.ovando@itam.mx>\n\n\n\n\n",
+    "created" : 1491450052217.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2495632148",
+    "id" : "4D63CE0D",
+    "lastKnownWriteTime" : 1491453521,
+    "last_content_update" : 1491453521815,
+    "path" : "~/JCMO.Trabajo/Seminars,Visits&Talks/17-04.Cinvestav/17-04.Cinvestav_Taller/17-04.Cinvestav_TallerBayes.Rmd",
+    "project_path" : "17-04.Cinvestav_TallerBayes.Rmd",
+    "properties" : {
+        "docOutlineVisible" : "1",
+        "last_setup_crc32" : "E629F6C3e8836091"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

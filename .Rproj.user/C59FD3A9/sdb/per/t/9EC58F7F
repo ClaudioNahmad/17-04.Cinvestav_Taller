@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Fundamentos de Estadística Bayesiana\"\nauthor: \"Juan Carlos Martínez-Ovando\"\ndate: \"Abril 6, 2017\"\noutput:\n  html_document: default\n---\n\n------\n<center>\n[Mini] Taller de Métodos Numéricos y Estadísticos en Cosmología 2017\n\nCinvestav, CDMX\n</center>\n\n------\n\n# Resumen\n\nEn esta plática revisaremos algunos fundamentos metodológicos asociados con el paradigma bayesiano de aprendizaje estadístico (inferencial y predictivo). Prestaremos particular atención a la especificación de estructuras de dependencia estocástica en modelación, así como a la revisión de herramientas computacionales contemporáneas para su implementación práctica.\n\nLa plática intentará ser interactiva, por lo que varios ejemplos serán presentados en el lenguaje de programación `R` <a href=\"https://www.r-project.org/\">[Liga]</a> junto con la revisión metodológica del paradigma. \n\n------\n\n# Agenda\n\n1. Incertidumbre y aleatoriedad\n\n2. Subjetividad y modelación \n\n3. Aprendizaje y predicción\n\n3. Herramientas computacionales\n\n5. Aplicaciones\n\n6. Temas abiertos\n\n------\n\n# Herramientas computacionales\n\n* `R` <a href=\"https://www.r-project.org/\">[Liga]</a> (lenguaje de programación)\n\n* `RStudio` <a href=\"https://www.rstudio.com/\">[Liga]</a> (editor/entorno de trabajo para reproducibilidad)\n\n* `JAGS` <a href=\"http://mcmc-jags.sourceforge.net/\">[Liga]</a> (implementación bayesiana)\n\n`R` es un lenguaje de programación libre que funciona con librerías/paquetes concentrados en un repositorio `CRAN` <a href=\"https://cran.r-project.org/\">[Liga]</a>. En esta sesión emplearemos un grupo de esos paquetes. Les pido, puedan instalarlos con las siguientes instrucciones que se copian y pegan en la `linea de comando` de `R`:\n\n```\ninstall.packages(\"dplyr\")\ninstall.packages(\"ggplot2\")\ninstall.packages(\"LearnBayes\")\ninstall.packages(\"mcmc\")\ninstall.packages(\"MCMCpack\")\ninstall.packages(\"coda\")\ninstall.packages(\"boa\")\n```\n------\n\n**En esta <a href=\"https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf\">[Liga]</a> podrán descargar un tutorial básico para `R`.** Vean también esta <a href=\"https://cran.r-project.org/doc/contrib/Short-refcard.pdf\">[Referencia]</a>.\n\nDentro de `RStudio` estaremos trabajando en el ambiente `Markdown` <a href=\"http://rmarkdown.rstudio.com/\">[Liga]</a>. Vean también esta <a href=\"https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf\">[Referencia]</a>.\n",
+    "created" : 1491447345255.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2712074863",
+    "id" : "9EC58F7F",
+    "lastKnownWriteTime" : 1491450042,
+    "last_content_update" : 1491450042990,
+    "path" : "~/JCMO.Trabajo/Seminars,Visits&Talks/17-04.Cinvestav/17-04.Cinvestav_Taller/17-04.Cinvestav_Taller.Rmd",
+    "project_path" : "17-04.Cinvestav_Taller.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

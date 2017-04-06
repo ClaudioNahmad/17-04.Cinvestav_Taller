@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Fundamentos de Estadística Bayesiana\n========================================================\nauthor: Juan Carlos Martinez-Ovando\ndate: 7 de abril de 2017\nautosize: true\n\nFirst Slide\n========================================================\n\nFor more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.\n\n- Bullet 1\n- Bullet 2\n- Bullet 3\n\nSlide With Code\n========================================================\n\n```{r}\nsummary(cars)\n```\n\nSlide With Plot\n========================================================\n\n```{r, echo=FALSE}\nplot(cars)\n```\n",
+    "created" : 1489193521688.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "163838521",
+    "id" : "28BAB87B",
+    "lastKnownWriteTime" : 1490742711,
+    "last_content_update" : 1490742711260,
+    "path" : "/run/media/jmartineov/ROCADATA/JCMO.Trabajo/Seminars,Visits&Talks/17-04.Cinvestav/17-04.Cinvestav/17-04.Cinvestav.Rpres",
+    "project_path" : "17-04.Cinvestav.Rpres",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_presentation"
+}
